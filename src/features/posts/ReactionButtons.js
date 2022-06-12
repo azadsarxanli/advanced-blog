@@ -18,11 +18,11 @@ const ReactionButtons = ({ post }) => {
         type="button"
         className="reactionButton"
         onClick={() => {
-          // const newValue = post.reactions[name] + 1;
-          // addReaction({
-          //   postId: post.id,
-          //   reactions: { ...post.reactions, [name]: newValue },
-          // });
+          const newValue = post.reactions[name] + 1;
+          addReaction({
+            postId: post.id,
+            reactions: { ...post.reactions, [name]: newValue },
+          });
           console.log("hello");
         }}
       >
