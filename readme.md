@@ -1,4 +1,4 @@
-# Insturactions:
+# instructions:
 
 - To use this app, `fork` it or, just `clone`. Open the folder that you cloned in your IDE
 - Open the terminal - in `visual studio code` terminal is built on top of Windows Terminal (or you can use ctrl + ` )
