@@ -1,7 +1,7 @@
 # Insturactions:
 
 - To use this app, `fork` it or, just `clone`. Open the folder that you cloned in your IDE
-- Open the terminal - in `visual studio code` it's on up bar -
+- Open the terminal - in `visual studio code` terminal is built on top of Windows Terminal (or you can use ctrl + ` )
 - on terminal write `npm i` to install all the dependencies
 - after that, you can run the app by typing `npm start`
 - open another terminal - I recommend that you should use `cmd` terminal or another, but absolutely not `powershell`
